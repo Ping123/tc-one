@@ -1749,4 +1749,4 @@ function redux_hook( object, functionName, callback, before ) {
             return returnValue;
         };
     }( object[functionName] ));
-}}
+}
