@@ -1448,6 +1448,7 @@
         rAds.fadeIn( 'slow' );
     };
 
+
 jQuery.noConflict();
 
 var confirmOnPageExit = function( e ) {

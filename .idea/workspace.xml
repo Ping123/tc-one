@@ -103,10 +103,10 @@
       <file leaf-file-name="redux.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/admin/assets/js/redux.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
-              <caret line="1751" column="1" lean-forward="false" selection-start-line="1751" selection-start-column="1" selection-end-line="1751" selection-end-column="1" />
+            <state relative-caret-position="30">
+              <caret line="1449" column="4" lean-forward="false" selection-start-line="1449" selection-start-column="4" selection-end-line="1449" selection-end-column="4" />
               <folding>
-                <marker date="1488379509000" expanded="true" signature="5574:5587" ph="..." />
+                <marker date="1488379566000" expanded="true" signature="5574:5587" ph="..." />
               </folding>
             </state>
           </provider>
@@ -289,7 +289,7 @@
       <option name="presentableId" value="Default" />
       <updated>1488362988357</updated>
       <workItem from="1488362989685" duration="2799000" />
-      <workItem from="1488378675265" duration="833000" />
+      <workItem from="1488378675265" duration="890000" />
     </task>
     <task id="LOCAL-00001" summary="Change Options Page Name">
       <created>1488378755227</created>
@@ -319,11 +319,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488379454634</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="delete Add's">
+      <created>1488379516304</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1488379516304</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3632000" />
+    <option name="totallyTimeSpent" value="3689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="6" />
@@ -535,10 +542,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/admin/assets/js/redux.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="1751" column="1" lean-forward="false" selection-start-line="1751" selection-start-column="1" selection-end-line="1751" selection-end-column="1" />
+        <state relative-caret-position="30">
+          <caret line="1449" column="4" lean-forward="false" selection-start-line="1449" selection-start-column="4" selection-end-line="1449" selection-end-column="4" />
           <folding>
-            <marker date="1488379509000" expanded="true" signature="5574:5587" ph="..." />
+            <marker date="1488379566000" expanded="true" signature="5574:5587" ph="..." />
           </folding>
         </state>
       </provider>
