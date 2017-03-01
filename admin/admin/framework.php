@@ -547,7 +547,7 @@
                     ),
                     'show_import_export'        => true,
                     'show_options_object'       => true,
-                    'dev_mode'                  => false,
+                    'dev_mode'                  => true,
                     'templates_path'            => '',
                     // Path to the templates file for various Redux elements
                     'ajax_save'                 => true,
