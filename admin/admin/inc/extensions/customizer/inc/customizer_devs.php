@@ -10,7 +10,6 @@
          * @see        WP_Customize_Section
          */
 
-
         class Redux_Customizer_Control_rAds extends WP_Customize_Control {
             public function render() {
             }

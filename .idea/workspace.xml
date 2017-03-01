@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2fae35a7-2550-4da6-9ff2-4bf06447fbe7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/admin/assets/js/redux.js" afterPath="$PROJECT_DIR$/admin/admin/assets/js/redux.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/admin/inc/extensions/customizer/inc/customizer_devs.php" afterPath="$PROJECT_DIR$/admin/admin/inc/extensions/customizer/inc/customizer_devs.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customizer_devs.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="customizer_devs.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/admin/inc/extensions/customizer/inc/customizer_devs.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,6 +87,28 @@
             <state relative-caret-position="1200">
               <caret line="88" column="81" lean-forward="false" selection-start-line="88" selection-start-column="81" selection-end-line="88" selection-end-column="81" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/admin/templates/panel/header.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redux.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/admin/assets/js/redux.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="1448" column="6" lean-forward="false" selection-start-line="1448" selection-start-column="6" selection-end-line="1448" selection-end-column="6" />
+              <folding>
+                <marker date="1488379280000" expanded="true" signature="5574:5587" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,6 +156,7 @@
         <option value="$PROJECT_DIR$/admin/admin/inc/class.redux_admin_notices.php" />
         <option value="$PROJECT_DIR$/admin/config/config.php" />
         <option value="$PROJECT_DIR$/admin/admin/inc/extensions/customizer/inc/customizer_devs.php" />
+        <option value="$PROJECT_DIR$/admin/admin/assets/js/redux.js" />
       </list>
     </option>
   </component>
@@ -266,7 +290,7 @@
       <option name="presentableId" value="Default" />
       <updated>1488362988357</updated>
       <workItem from="1488362989685" duration="2799000" />
-      <workItem from="1488378675265" duration="344000" />
+      <workItem from="1488378675265" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="Change Options Page Name">
       <created>1488378755227</created>
@@ -275,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488378755227</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="delete Add's">
+      <created>1488379037150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1488379037150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3143000" />
+    <option name="totallyTimeSpent" value="3404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="6" />
@@ -314,7 +345,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change Options Page Name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change Options Page Name" />
+    <MESSAGE value="delete Add's" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete Add's" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -428,14 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/admin/inc/class.redux_admin_notices.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="88" column="81" lean-forward="false" selection-start-line="88" selection-start-column="81" selection-end-line="88" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548">
@@ -464,14 +488,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/admin/assets/js/redux.js">
+    <entry file="file://$PROJECT_DIR$/admin/admin/inc/extensions/customizer/inc/customizer_devs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="1431" column="13" lean-forward="true" selection-start-line="1431" selection-start-column="13" selection-end-line="1431" selection-end-column="13" />
-          <folding>
-            <marker date="1488378668000" expanded="true" signature="5574:5587" ph="..." />
-            <marker date="1488378668000" expanded="true" signature="59743:59762" ph="..." />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -483,11 +504,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/admin/inc/extensions/customizer/inc/customizer_devs.php">
+    <entry file="file://$PROJECT_DIR$/admin/admin/inc/class.redux_admin_notices.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="1200">
+          <caret line="88" column="81" lean-forward="false" selection-start-line="88" selection-start-column="81" selection-end-line="88" selection-end-column="81" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin/templates/panel/header.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin/assets/js/redux.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1448" column="6" lean-forward="false" selection-start-line="1448" selection-start-column="6" selection-end-line="1448" selection-end-column="6" />
+          <folding>
+            <marker date="1488379280000" expanded="true" signature="5574:5587" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
